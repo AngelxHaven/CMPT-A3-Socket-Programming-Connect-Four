@@ -10,7 +10,7 @@
 | Name | Student ID | Email |
 | :---- | :---- | :---- |
 | Jessica Liu | 301581749 | jyl83@sfu.ca |
-| Khaled Taseen | 301457597 | _____@sfu.ca |
+| Khaled Taseen | 301457597 | kta93@sfu.ca |
 
 ## **1\. Project Overview & Description**
 
